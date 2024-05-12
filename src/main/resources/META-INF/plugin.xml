@@ -8,7 +8,7 @@
     <name>FastNoteBook</name>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
-    <vendor email="" url=""></vendor>
+    <vendor email="guo-g@outlook.com" url="https://github.com/bug-gg/FastNoteBook"></vendor>
 
     <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
